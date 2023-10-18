@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "261506F8-642A-4A78-AF34-801D747D466E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B6A3384B-324C-46F3-AED2-874880E4E7B8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LittleWords/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "score"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "B6A3384B-324C-46F3-AED2-874880E4E7B8 - f9eb93dcf5ca45ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LittleWords.ViewController.loadView() -&gt; ()"
+                  moduleName = "LittleWords"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matejkupresak/Desktop/UIKit/Day%2036,37,38/LittleWords/LittleWords/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "206">
+               </Location>
+               <Location
+                  uuid = "B6A3384B-324C-46F3-AED2-874880E4E7B8 - 2d28b3673565b700"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LittleWords.ViewController.score.didset : Swift.Int"
+                  moduleName = "LittleWords"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matejkupresak/Desktop/UIKit/Day%2036,37,38/LittleWords/LittleWords/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "53">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

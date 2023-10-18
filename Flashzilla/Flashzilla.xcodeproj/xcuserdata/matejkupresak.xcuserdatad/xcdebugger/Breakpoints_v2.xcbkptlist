@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E74D723C-0B17-48ED-A293-05DB386FCB0B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1DA7273C-14E5-4951-B379-3821630EA751"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CardView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "CardView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "1DA7273C-14E5-4951-B379-3821630EA751 - e5d18595f9bbd51"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of Flashzilla.CardView.isShowingAnswer : Swift.Bool"
+                  moduleName = "Flashzilla"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matejkupresak/Desktop/Swift/Day%2086,87,88,89,90,91/Flashzilla/CardView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "1DA7273C-14E5-4951-B379-3821630EA751 - 975430c9aa6f4f75"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flashzilla.CardView.init(card: Flashzilla.Card, removal: Swift.Optional&lt;() -&gt; ()&gt;, differentiateWithoutColor: SwiftUI.Environment&lt;Swift.Bool&gt;) -&gt; Flashzilla.CardView"
+                  moduleName = "Flashzilla"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matejkupresak/Desktop/Swift/Day%2086,87,88,89,90,91/Flashzilla/CardView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "57">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
